@@ -1,0 +1,9 @@
+PDFS/
+*.h5
+*.hdf5
+*.jpg
+*.png
+*.zip
+*.mp4
+*.csv
+*.npy
