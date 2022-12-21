@@ -7,3 +7,4 @@ PDFS/
 *.mp4
 *.csv
 *.npy
+*.ipynb_checkpoints
