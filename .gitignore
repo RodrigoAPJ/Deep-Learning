@@ -4,6 +4,7 @@ PDFS/
 *.jpg
 *.png
 *.zip
+*.wav
 *.mp4
 *.csv
 *.npy
